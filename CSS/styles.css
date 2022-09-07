@@ -53,6 +53,7 @@ a:hover{
  background-color: #B9FFF8;
  position: relative;
  padding-top: 100px;
+ width: 100%;
 }
 .my-picture{
 
@@ -108,6 +109,9 @@ a:hover{
  position: absolute;
  left: 300px;
  bottom: 300px;
+}
+.mountain{
+ width:40%
 }
 .bassist{
  width: 300px;
